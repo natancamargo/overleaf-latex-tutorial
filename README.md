@@ -4,3 +4,4 @@
 ## Overleaf tutorial to learn Latex in 30 minutes
 
 [01-first-piece.tex](./01-first-piece.tex)
+[02-my-first-document](./02-my-first-document.tex)

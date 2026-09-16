@@ -3,5 +3,11 @@
 
 ## Overleaf tutorial to learn Latex in 30 minutes
 
-[01-first-piece.tex](./01-first-piece.tex)
-[02-my-first-document](./02-my-first-document.tex)
+- [01-first-piece.tex](./01-first-piece.tex)
+- [02-my-first-document.tex](./02-my-first-document.tex)
+- [03-my-first-comment.tex](./03-my-first-comment.tex)
+- [04-text-formatting.tex](./04-text-formatting.tex)
+- [05-adding-images.tex](./05-adding-images.tex)
+- [06-figures.tex](./06-figures.tex)
+- [07-lists.tex](./07-lists.tex)
+- [08-math.tex](./04-math.tex)

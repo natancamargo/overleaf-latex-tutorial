@@ -8,7 +8,7 @@
 - [03-my-first-comment.tex](./03-my-first-comment.tex)
 - [04-text-formatting.tex](./04-text-formatting.tex)
 - [05-adding-images.tex](./05-adding-images.tex)
-- [06-figures.tex](./06-figures.tex)
+- [06-figure.tex](./06-figure.tex)
 - [07-lists.tex](./07-lists.tex)
 - [08-math.tex](./08-math.tex)
 - [09-document.tex](./09-document.tex)
